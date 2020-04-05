@@ -1,0 +1,4 @@
+Based on the box plot i noted that the drugs capomulin and ramicane help reduce the tumor the most. Hence they are most effective drug of the four that were looked at.
+
+A correlation coefficient of 0.84 indicates that there is a strong relation between mouse weight and the tumor
+
